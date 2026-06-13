@@ -22,3 +22,10 @@ npm run dev
 ```bash
 npm run build
 ```
+
+## Deploy
+
+Este proyecto funciona en Netlify o Vercel como SPA.
+
+- Build command: `npm run build`
+- Output directory: `dist`
